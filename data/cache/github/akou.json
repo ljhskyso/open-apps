@@ -3,7 +3,7 @@
   "slug": "akou",
   "repoUrl": "https://github.com/GeiserX/akou",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:50:37.946Z",
+  "lastSuccessAt": "2026-10-20T03:04:07.715Z",
   "partialFailures": [],
   "sourceDescription": "The open-source alternative to Granola. Records your calls on a Mac, transcribes them on your own machine, lets your own AI agent in the terminal (Claude Code, Codex or any other) follow and question a call while it runs, and saves the notes to your own tools. Also runs as a self-hosted transcription server.",
   "github": {
@@ -13,8 +13,8 @@
       "forks_count": 1,
       "open_issues_count": 4,
       "language": "TypeScript",
-      "pushed_at": "2026-10-17T09:43:55Z",
-      "updated_at": "2026-10-17T09:43:58Z",
+      "pushed_at": "2026-10-19T04:55:41Z",
+      "updated_at": "2026-10-19T04:13:40Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -45,10 +45,10 @@
         "transcription"
       ]
     },
-    "latestReleaseAt": "2026-10-14T10:02:38Z",
+    "latestReleaseAt": "2026-10-19T05:08:19Z",
     "homepage": "https://geiserx.github.io/akou/",
     "sync": {
-      "syncedAt": "2026-10-18T07:50:37.946Z",
+      "syncedAt": "2026-10-20T03:04:07.715Z",
       "source": "api"
     }
   },
@@ -74,15 +74,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/GeiserX/akou/releases/latest",
         "facts": {
-          "tag": "v1.2.0",
+          "tag": "v1.2.1",
           "assets": [
-            "akou-1.2.0-macos-arm64.dmg"
+            "akou-1.2.1-macos-arm64.dmg"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/GeiserX/akou/releases/tag/v1.2.0",
-          "fetchedAt": "2026-10-17T15:52:15.641Z"
+          "url": "https://github.com/GeiserX/akou/releases/tag/v1.2.1",
+          "fetchedAt": "2026-10-20T03:04:05.722Z"
         }
       }
     ],

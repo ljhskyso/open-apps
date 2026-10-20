@@ -3,7 +3,7 @@
   "slug": "storypad",
   "repoUrl": "https://github.com/theachoem/storypad",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:57:39.438Z",
+  "lastSuccessAt": "2026-10-20T03:11:19.874Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:13:00.513Z",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:57:39.438Z",
+      "syncedAt": "2026-10-20T03:11:19.874Z",
       "source": "api"
     },
     "repository": {
       "full_name": "theachoem/storypad",
-      "stargazers_count": 974,
-      "forks_count": 129,
-      "open_issues_count": 14,
+      "stargazers_count": 976,
+      "forks_count": 128,
+      "open_issues_count": 12,
       "language": "Dart",
-      "pushed_at": "2026-10-15T13:49:28Z",
-      "updated_at": "2026-10-18T04:11:12Z",
+      "pushed_at": "2026-10-19T17:26:27Z",
+      "updated_at": "2026-10-20T00:11:29Z",
       "archived": false,
       "disabled": false,
       "default_branch": "develop",

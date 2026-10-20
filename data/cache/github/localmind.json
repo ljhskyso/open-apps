@@ -3,7 +3,7 @@
   "slug": "localmind",
   "repoUrl": "https://github.com/abdulmominsakib/localmind",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:54:29.546Z",
+  "lastSuccessAt": "2026-10-20T03:08:01.797Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:02.227Z",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:54:29.546Z",
+      "syncedAt": "2026-10-20T03:08:01.797Z",
       "source": "api"
     },
     "repository": {
       "full_name": "abdulmominsakib/localmind",
-      "stargazers_count": 282,
-      "forks_count": 45,
+      "stargazers_count": 287,
+      "forks_count": 46,
       "open_issues_count": 2,
       "language": "Dart",
       "pushed_at": "2026-10-18T04:45:35Z",
-      "updated_at": "2026-10-18T04:45:39Z",
+      "updated_at": "2026-10-19T15:39:27Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",

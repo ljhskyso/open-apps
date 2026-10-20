@@ -3,7 +3,7 @@
   "slug": "mattermost-mobile",
   "repoUrl": "https://github.com/mattermost/mattermost-mobile",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:54:52.094Z",
+  "lastSuccessAt": "2026-10-20T03:08:24.080Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:17.889Z",
@@ -101,8 +101,8 @@
       "releases_url": "https://api.github.com/repos/mattermost/mattermost-mobile/releases{/id}",
       "deployments_url": "https://api.github.com/repos/mattermost/mattermost-mobile/deployments",
       "created_at": "2016-10-07T16:52:32Z",
-      "updated_at": "2026-10-17T07:44:37Z",
-      "pushed_at": "2026-10-18T04:09:40Z",
+      "updated_at": "2026-10-19T17:28:58Z",
+      "pushed_at": "2026-10-19T22:59:41Z",
       "git_url": "git://github.com/mattermost/mattermost-mobile.git",
       "ssh_url": "git@github.com:mattermost/mattermost-mobile.git",
       "clone_url": "https://github.com/mattermost/mattermost-mobile.git",
@@ -122,7 +122,7 @@
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 346,
+      "open_issues_count": 344,
       "license": {
         "spdx_id": "Apache-2.0",
         "name": "Apache-2.0"
@@ -219,7 +219,7 @@
       "openPullRequests": 88
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:54:52.094Z",
+      "syncedAt": "2026-10-20T03:08:24.080Z",
       "source": "api"
     },
     "html": {
@@ -255,13 +255,13 @@
         "facts": {
           "appId": "com.mattermost.rnbeta",
           "suggestedVersionCode": 82704,
-          "evidence": "https://github.com/mattermost/mattermost-mobile/blob/16c5849eb6dbcbbe6814d7e0669d734f7020d1c4/android/app/build.gradle",
+          "evidence": "https://github.com/mattermost/mattermost-mobile/blob/cd1ee5322be9a369c5b9f5fa34963763d1145d7a/android/app/build.gradle",
           "fastlane": "fastlane/metadata/android"
         },
         "provenance": {
           "source": "fdroid",
           "url": "https://f-droid.org/api/v1/packages/com.mattermost.rnbeta",
-          "fetchedAt": "2026-10-17T15:56:29.768Z"
+          "fetchedAt": "2026-10-20T03:08:21.100Z"
         }
       }
     ],

@@ -3,7 +3,7 @@
   "slug": "rakazo",
   "repoUrl": "https://github.com/elie222/rakazo",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:57:06.105Z",
+  "lastSuccessAt": "2026-10-20T03:10:46.544Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:38.204Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "elie222/rakazo",
-      "stargazers_count": 4491,
-      "forks_count": 809,
-      "open_issues_count": 58,
+      "stargazers_count": 4804,
+      "forks_count": 875,
+      "open_issues_count": 44,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T05:49:35Z",
-      "updated_at": "2026-10-18T07:52:10Z",
+      "pushed_at": "2026-10-20T02:05:12Z",
+      "updated_at": "2026-10-20T03:07:31Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -60,10 +60,10 @@
         "typescript"
       ]
     },
-    "latestReleaseAt": "2026-10-10T22:46:38Z",
+    "latestReleaseAt": "2026-10-19T22:42:44Z",
     "homepage": "https://rakazo.com",
     "sync": {
-      "syncedAt": "2026-10-18T07:57:06.105Z",
+      "syncedAt": "2026-10-20T03:10:46.544Z",
       "source": "api"
     }
   },
@@ -90,15 +90,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/elie222/rakazo/releases/latest",
         "facts": {
-          "tag": "v0.2.0",
+          "tag": "v0.3.1",
           "assets": [
-            "Rakazo-0.2.0.AppImage"
+            "Rakazo-0.3.1.AppImage"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/elie222/rakazo/releases/tag/v0.2.0",
-          "fetchedAt": "2026-10-11T09:51:00.289Z"
+          "url": "https://github.com/elie222/rakazo/releases/tag/v0.3.1",
+          "fetchedAt": "2026-10-20T03:10:44.403Z"
         }
       },
       {
@@ -107,15 +107,15 @@
         "label": "GitHub Releases",
         "url": "https://github.com/elie222/rakazo/releases/latest",
         "facts": {
-          "tag": "v0.2.0",
+          "tag": "v0.3.1",
           "assets": [
-            "Rakazo-0.2.0-universal.dmg"
+            "Rakazo-0.3.1-universal.dmg"
           ]
         },
         "provenance": {
           "source": "github-releases",
-          "url": "https://github.com/elie222/rakazo/releases/tag/v0.2.0",
-          "fetchedAt": "2026-10-11T09:51:00.289Z"
+          "url": "https://github.com/elie222/rakazo/releases/tag/v0.3.1",
+          "fetchedAt": "2026-10-20T03:10:44.403Z"
         }
       }
     ],

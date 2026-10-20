@@ -3,7 +3,7 @@
   "slug": "rustdesk",
   "repoUrl": "https://github.com/rustdesk/rustdesk",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:57:17.486Z",
+  "lastSuccessAt": "2026-10-20T03:10:57.449Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:12:49.907Z",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:57:17.486Z",
+      "syncedAt": "2026-10-20T03:10:57.449Z",
       "source": "api"
     },
     "repository": {
       "full_name": "rustdesk/rustdesk",
-      "stargazers_count": 126174,
-      "forks_count": 19790,
-      "open_issues_count": 190,
+      "stargazers_count": 126366,
+      "forks_count": 19846,
+      "open_issues_count": 201,
       "language": "Rust",
       "pushed_at": "2026-10-16T03:18:22Z",
-      "updated_at": "2026-10-18T07:35:39Z",
+      "updated_at": "2026-10-20T03:07:01Z",
       "archived": false,
       "disabled": false,
       "default_branch": "master",

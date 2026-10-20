@@ -3,7 +3,7 @@
   "slug": "app-finance",
   "repoUrl": "https://github.com/lyskouski/app-finance",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:50:53.162Z",
+  "lastSuccessAt": "2026-10-20T03:04:21.849Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:08:53.662Z",
@@ -37,10 +37,10 @@
       "full_name": "lyskouski/app-finance",
       "stargazers_count": 140,
       "forks_count": 31,
-      "open_issues_count": 23,
+      "open_issues_count": 22,
       "language": "Dart",
-      "pushed_at": "2026-10-15T19:15:24Z",
-      "updated_at": "2026-10-16T16:20:17Z",
+      "pushed_at": "2026-10-19T17:53:06Z",
+      "updated_at": "2026-10-19T17:47:11Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -65,7 +65,7 @@
     "latestReleaseAt": "2026-10-08T15:44:24Z",
     "homepage": "https://tercad.com/app/finance/index.html",
     "sync": {
-      "syncedAt": "2026-10-18T07:50:53.162Z",
+      "syncedAt": "2026-10-20T03:04:21.849Z",
       "source": "api"
     }
   },
@@ -93,12 +93,12 @@
         "facts": {
           "appId": "com.tercad.fingrom",
           "match": "metainfo",
-          "evidence": "https://github.com/lyskouski/app-finance/blob/a7838df284cb89929871f9d645b7a0acb566b536/linux-flatpak/com.tercad.fingrom.metainfo.xml"
+          "evidence": "https://github.com/lyskouski/app-finance/blob/a9beb6bda086fa3138b1985e003a4730207a7b95/linux-flatpak/com.tercad.fingrom.metainfo.xml"
         },
         "provenance": {
           "source": "flathub",
           "url": "https://flathub.org/api/v2/appstream/com.tercad.fingrom",
-          "fetchedAt": "2026-10-17T15:52:32.372Z"
+          "fetchedAt": "2026-10-20T03:04:20.444Z"
         }
       },
       {

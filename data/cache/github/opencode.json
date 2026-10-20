@@ -3,7 +3,7 @@
   "slug": "opencode",
   "repoUrl": "https://github.com/anomalyco/opencode",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:55:46.917Z",
+  "lastSuccessAt": "2026-10-20T03:09:18.078Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:16:32.753Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "anomalyco/opencode",
-      "stargazers_count": 215734,
-      "forks_count": 28901,
-      "open_issues_count": 4625,
+      "stargazers_count": 217930,
+      "forks_count": 29124,
+      "open_issues_count": 4283,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T06:58:25Z",
-      "updated_at": "2026-10-18T07:55:12Z",
+      "pushed_at": "2026-10-20T02:45:33Z",
+      "updated_at": "2026-10-20T03:08:27Z",
       "archived": false,
       "disabled": false,
       "default_branch": "dev",
@@ -43,7 +43,7 @@
     "latestReleaseAt": "2026-10-16T12:31:52Z",
     "homepage": "https://opencode.ai",
     "sync": {
-      "syncedAt": "2026-10-18T07:55:46.917Z",
+      "syncedAt": "2026-10-20T03:09:18.078Z",
       "source": "api"
     }
   },
@@ -221,7 +221,7 @@
         "facts": {
           "repository": "chocolatey",
           "package": "opencode",
-          "version": "1.19.0",
+          "version": "1.19.1",
           "project": "opencode",
           "match": "project-name",
           "versionMatchesRelease": false
@@ -229,7 +229,7 @@
         "provenance": {
           "source": "repology",
           "url": "https://repology.org/project/opencode/versions",
-          "fetchedAt": "2026-10-17T15:57:22.861Z"
+          "fetchedAt": "2026-10-20T03:09:15.276Z"
         }
       },
       {

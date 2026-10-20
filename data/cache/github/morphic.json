@@ -3,7 +3,7 @@
   "slug": "morphic",
   "repoUrl": "https://github.com/miurla/morphic",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:55:15.612Z",
+  "lastSuccessAt": "2026-10-20T03:08:46.860Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:16:03.768Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "miurla/morphic",
-      "stargazers_count": 9177,
-      "forks_count": 2349,
+      "stargazers_count": 9181,
+      "forks_count": 2347,
       "open_issues_count": 54,
       "language": "TypeScript",
-      "pushed_at": "2026-10-17T00:10:39Z",
-      "updated_at": "2026-10-18T00:10:29Z",
+      "pushed_at": "2026-10-20T01:46:35Z",
+      "updated_at": "2026-10-20T01:46:37Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -56,7 +56,7 @@
     "latestReleaseAt": "2026-10-17T00:12:09Z",
     "homepage": "https://chat.morphic.sh",
     "sync": {
-      "syncedAt": "2026-10-18T07:55:15.612Z",
+      "syncedAt": "2026-10-20T03:08:46.860Z",
       "source": "api"
     }
   },

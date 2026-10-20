@@ -3,7 +3,7 @@
   "slug": "apidash",
   "repoUrl": "https://github.com/foss42/apidash",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:50:50.612Z",
+  "lastSuccessAt": "2026-10-20T03:04:20.057Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:08:51.037Z",
@@ -36,11 +36,11 @@
     "repository": {
       "full_name": "foss42/apidash",
       "stargazers_count": 2932,
-      "forks_count": 1032,
-      "open_issues_count": 213,
+      "forks_count": 1034,
+      "open_issues_count": 218,
       "language": "Dart",
       "pushed_at": "2026-10-10T18:37:17Z",
-      "updated_at": "2026-10-16T12:53:08Z",
+      "updated_at": "2026-10-19T19:11:06Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -71,7 +71,7 @@
     "latestReleaseAt": "2023-11-29T12:07:18Z",
     "homepage": "https://apidash.dev",
     "sync": {
-      "syncedAt": "2026-10-18T07:50:50.612Z",
+      "syncedAt": "2026-10-20T03:04:20.057Z",
       "source": "api"
     }
   },

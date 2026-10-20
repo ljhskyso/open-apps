@@ -3,7 +3,7 @@
   "slug": "heyform",
   "repoUrl": "https://github.com/heyform/heyform",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:53:19.011Z",
+  "lastSuccessAt": "2026-10-20T03:06:47.610Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:14:16.871Z",
@@ -25,12 +25,12 @@
   "github": {
     "repository": {
       "full_name": "heyform/heyform",
-      "stargazers_count": 9035,
-      "forks_count": 721,
-      "open_issues_count": 13,
+      "stargazers_count": 9041,
+      "forks_count": 722,
+      "open_issues_count": 8,
       "language": "TypeScript",
-      "pushed_at": "2026-10-15T04:51:10Z",
-      "updated_at": "2026-10-18T05:27:07Z",
+      "pushed_at": "2026-10-19T01:57:00Z",
+      "updated_at": "2026-10-20T01:59:50Z",
       "archived": false,
       "disabled": false,
       "default_branch": "next",
@@ -47,7 +47,7 @@
     "latestReleaseAt": "2026-10-15T03:34:57Z",
     "homepage": "https://heyform.net",
     "sync": {
-      "syncedAt": "2026-10-18T07:53:19.011Z",
+      "syncedAt": "2026-10-20T03:06:47.610Z",
       "source": "api"
     }
   },

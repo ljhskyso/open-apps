@@ -3,7 +3,7 @@
   "slug": "beecount",
   "repoUrl": "https://github.com/TNT-Likely/BeeCount",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:51:14.926Z",
+  "lastSuccessAt": "2026-10-20T03:04:41.161Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:09:05.357Z",
@@ -101,15 +101,15 @@
       "releases_url": "https://api.github.com/repos/TNT-Likely/BeeCount/releases{/id}",
       "deployments_url": "https://api.github.com/repos/TNT-Likely/BeeCount/deployments",
       "created_at": "2025-09-06T02:15:06Z",
-      "updated_at": "2026-10-18T06:48:06Z",
-      "pushed_at": "2026-10-16T03:55:16Z",
+      "updated_at": "2026-10-20T02:03:36Z",
+      "pushed_at": "2026-10-19T14:09:18Z",
       "git_url": "git://github.com/TNT-Likely/BeeCount.git",
       "ssh_url": "git@github.com:TNT-Likely/BeeCount.git",
       "clone_url": "https://github.com/TNT-Likely/BeeCount.git",
       "svn_url": "https://github.com/TNT-Likely/BeeCount",
       "homepage": "https://count.beejz.com",
       "size": 122691,
-      "stargazers_count": 2578,
+      "stargazers_count": 2593,
       "watchers_count": 1960,
       "language": "Dart",
       "has_issues": true,
@@ -118,11 +118,11 @@
       "has_wiki": true,
       "has_pages": false,
       "has_discussions": true,
-      "forks_count": 348,
+      "forks_count": 351,
       "mirror_url": null,
       "archived": false,
       "disabled": false,
-      "open_issues_count": 135,
+      "open_issues_count": 137,
       "license": {
         "spdx_id": "NOASSERTION",
         "name": "NOASSERTION"
@@ -199,7 +199,7 @@
       "contributorsKnown": 11
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:51:14.926Z",
+      "syncedAt": "2026-10-20T03:04:41.161Z",
       "source": "api"
     },
     "languages": {

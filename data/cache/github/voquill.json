@@ -3,7 +3,7 @@
   "slug": "voquill",
   "repoUrl": "https://github.com/voquill/voquill",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:58:54.956Z",
+  "lastSuccessAt": "2026-10-20T03:12:35.098Z",
   "partialFailures": [
     {
       "at": "2026-09-28T18:19:27.905Z",
@@ -54,7 +54,7 @@
     "latestReleaseAt": "2026-09-26T17:43:21Z",
     "homepage": "https://voquill.com/dictation",
     "sync": {
-      "syncedAt": "2026-10-18T07:58:54.956Z",
+      "syncedAt": "2026-10-20T03:12:35.098Z",
       "source": "api"
     }
   },

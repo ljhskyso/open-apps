@@ -3,7 +3,7 @@
   "slug": "open-design",
   "repoUrl": "https://github.com/nexu-io/open-design",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:55:38.305Z",
+  "lastSuccessAt": "2026-10-20T03:09:08.670Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:53.492Z",
@@ -31,7 +31,7 @@
       "reason": "repology: repology.org skipped for this run (2 network errors, last: fetch failed (ECONNREFUSED))"
     }
   ],
-  "sourceDescription": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
+  "sourceDescription": "The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.",
   "github": {
     "html": {
       "license": "Apache-2.0",
@@ -39,17 +39,17 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:55:38.305Z",
+      "syncedAt": "2026-10-20T03:09:08.670Z",
       "source": "api"
     },
     "repository": {
       "full_name": "nexu-io/open-design",
-      "stargazers_count": 102026,
-      "forks_count": 11718,
-      "open_issues_count": 1200,
+      "stargazers_count": 102566,
+      "forks_count": 11752,
+      "open_issues_count": 1201,
       "language": "TypeScript",
-      "pushed_at": "2026-10-18T01:24:39Z",
-      "updated_at": "2026-10-18T07:50:22Z",
+      "pushed_at": "2026-10-20T02:47:45Z",
+      "updated_at": "2026-10-20T03:03:46Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -64,12 +64,12 @@
         "claude-code-for-design",
         "claude-design",
         "codex-design",
-        "coding-agents",
         "cursor-design",
         "deepseek",
         "deepseek-harness",
         "design-systems",
         "desktop-app",
+        "desktop-apps",
         "dsh",
         "dsh-plugin",
         "figma-alternative",

@@ -3,7 +3,7 @@
   "slug": "libre-webui",
   "repoUrl": "https://github.com/libre-webui/libre-webui",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:54:15.610Z",
+  "lastSuccessAt": "2026-10-20T03:07:46.747Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:10:54.463Z",
@@ -35,12 +35,12 @@
   "github": {
     "repository": {
       "full_name": "libre-webui/libre-webui",
-      "stargazers_count": 94,
+      "stargazers_count": 96,
       "forks_count": 9,
       "open_issues_count": 1,
       "language": "TypeScript",
-      "pushed_at": "2026-10-17T08:46:03Z",
-      "updated_at": "2026-10-17T07:06:28Z",
+      "pushed_at": "2026-10-19T09:09:28Z",
+      "updated_at": "2026-10-19T16:30:57Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -74,7 +74,7 @@
     "latestReleaseAt": "2026-10-11T18:55:36Z",
     "homepage": "https://librewebui.org",
     "sync": {
-      "syncedAt": "2026-10-18T07:54:15.610Z",
+      "syncedAt": "2026-10-20T03:07:46.747Z",
       "source": "api"
     }
   },

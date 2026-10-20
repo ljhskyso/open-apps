@@ -3,7 +3,7 @@
   "slug": "marketmonk",
   "repoUrl": "https://github.com/brandonp2412/MarketMonk",
   "source": "api",
-  "lastSuccessAt": "2026-10-18T07:54:41.864Z",
+  "lastSuccessAt": "2026-10-20T03:08:14.432Z",
   "partialFailures": [
     {
       "at": "2026-09-28T17:11:11.968Z",
@@ -39,7 +39,7 @@
       "topics": []
     },
     "sync": {
-      "syncedAt": "2026-10-18T07:54:41.864Z",
+      "syncedAt": "2026-10-20T03:08:14.432Z",
       "source": "api"
     },
     "repository": {
@@ -48,8 +48,8 @@
       "forks_count": 5,
       "open_issues_count": 0,
       "language": "Dart",
-      "pushed_at": "2026-10-18T00:15:31Z",
-      "updated_at": "2026-10-18T00:15:34Z",
+      "pushed_at": "2026-10-20T00:57:45Z",
+      "updated_at": "2026-10-20T00:57:50Z",
       "archived": false,
       "disabled": false,
       "default_branch": "main",
@@ -102,13 +102,13 @@
         "facts": {
           "appId": "com.codesail.market_monk",
           "suggestedVersionCode": 1143,
-          "evidence": "https://github.com/brandonp2412/MarketMonk/blob/ff6d0fd5979aa414bfe28019d271de39c3f3dc2c/android/app/build.gradle",
+          "evidence": "https://github.com/brandonp2412/MarketMonk/blob/88d4f3e14c20f7f5474ac95b49989d2f35038ade/android/app/build.gradle",
           "fastlane": "fastlane/metadata/android"
         },
         "provenance": {
           "source": "fdroid",
           "url": "https://f-droid.org/api/v1/packages/com.codesail.market_monk",
-          "fetchedAt": "2026-10-18T07:54:39.654Z"
+          "fetchedAt": "2026-10-20T03:08:11.370Z"
         }
       },
       {
